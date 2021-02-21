@@ -11,7 +11,7 @@
 ## 👋🏻 Hi there  
 
 - 👩🏻‍💼   Beginner Web & App developer
-- 💻    usually using Java language for programmming
+- 💻    programmming
 - 👩🏻‍🏫   Major in SmartIT
 <br>
 
