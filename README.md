@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F5df4d&text=Nice_to_meet_you!&animation=blinking&fontSize=60&height=200)
 
 
-<div align="center">
-  
-[![Jaerim's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayrimkim&count_bg=%23F5DF4D&title_bg=%23939597&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-
 ## 👋🏻 Hi there  
 
 - 👩🏻‍💼   Beginner Web & App developer
@@ -56,6 +49,12 @@
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     
+</div>
+
+<div align="center">
+  
+[![Jaerim's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayrimkim&count_bg=%23F5DF4D&title_bg=%23939597&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 <br/>
 <br/>
